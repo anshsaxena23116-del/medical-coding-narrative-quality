@@ -1,0 +1,19 @@
+MEDICAL CODING AND NARRATIVE QUALITY — TRAINING SAMPLE
+Prepared only from supplied case facts. Do not treat as a real-patient safety assessment.
+
+PV-101
+------
+A 34-year-old female patient from India was reported to have used Velunex. The dose, route, indication, and treatment dates were not supplied. Nausea was reported approximately 3 hours after use. The reported outcome was recovered, and the source classified the case as not serious. Concomitant information was recorded as none reported. Exact dates, treatment, relevant medical history, and reporter details were not supplied. Causality cannot be determined from the available information.
+
+PV-102
+------
+A 61-year-old male patient from India was reported to have used Velunex. The dose, route, indication, and treatment dates were not supplied. Loss of consciousness was reported approximately 2 days after use. Emergency hospital admission was recorded in the source. The outcome was recorded as recovering. Concomitant medicines were recorded as unknown. Admission/discharge dates, clinical findings, treatment, medical history, and reporter details were not supplied. Causality cannot be determined from the available information.
+
+PV-103
+------
+A 27-year-old female patient from the United Kingdom was reported to have used Velunex. The dose, route, indication, and treatment dates were not supplied. A mild rash was reported approximately 4 days after use. The reported outcome was recovered, and the source classified the case as not serious. No rechallenge was reported. Rash description, treatment, exact dates, allergy/medical history, concomitant medicines, and reporter details were not supplied. Causality cannot be determined from the available information.
+
+PV-104
+------
+A patient from India, with age not supplied and sex recorded as unknown, was reported to have used Velunex. The dose, route, indication, and treatment dates were not supplied. Appendicitis was reported approximately 3 weeks after use. Hospitalisation was recorded in the source, and the outcome was recorded as recovered. Medical history was noted as incomplete. Exact event/hospitalisation dates, clinical evidence, treatment, concomitant medicines, reporter details, alternative causes, and the reporter’s causality assessment were not supplied. The temporal sequence does not establish that Velunex caused appendicitis.
+
